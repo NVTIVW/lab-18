@@ -1,0 +1,25 @@
+/* .carousel-item img {
+  height: 600px;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(3.jpg);
+} */
+img {
+  max-height: 600px;
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+}
